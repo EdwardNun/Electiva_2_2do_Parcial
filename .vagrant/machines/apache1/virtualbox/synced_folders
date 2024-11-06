@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/Admin/Desktop/2doElectiva2/apache1_files","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Admin/Desktop/2doElectiva2","disabled":false,"__vagrantfile":true}}}
